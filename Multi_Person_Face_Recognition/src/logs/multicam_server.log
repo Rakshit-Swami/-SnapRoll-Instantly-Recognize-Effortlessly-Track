@@ -1,0 +1,38 @@
+2025-03-21 05:46:02 - INFO -  [INFO] loading encodings...
+2025-03-21 05:46:30 - INFO -  [INFO] loading encodings...
+2025-03-21 05:49:15 - INFO -  [INFO] loading encodings...
+2025-03-21 05:49:43 - INFO -  [INFO] loading encodings...
+2025-03-21 05:55:22 - INFO -  [INFO] loading encodings...
+2025-03-21 05:55:23 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.17.0.2:5001
+2025-03-21 05:55:23 - INFO -  [33mPress CTRL+C to quit[0m
+2025-03-23 19:23:46 - INFO -  [INFO] loading encodings...
+2025-03-23 19:23:47 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-03-23 19:23:47 - INFO -  [33mPress CTRL+C to quit[0m
+2025-03-23 19:24:06 - INFO -  127.0.0.1 - - [23/Mar/2025 19:24:06] "GET / HTTP/1.1" 200 -
+2025-03-23 19:24:06 - INFO -  127.0.0.1 - - [23/Mar/2025 19:24:06] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-03-23 19:24:22 - INFO -  127.0.0.1 - - [23/Mar/2025 19:24:22] "GET / HTTP/1.1" 200 -
+2025-03-23 19:24:22 - INFO -  127.0.0.1 - - [23/Mar/2025 19:24:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-23 19:26:11 - INFO -  127.0.0.1 - - [23/Mar/2025 19:26:11] "GET / HTTP/1.1" 200 -
+2025-03-23 19:26:12 - INFO -  127.0.0.1 - - [23/Mar/2025 19:26:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-23 19:26:27 - INFO -  127.0.0.1 - - [23/Mar/2025 19:26:27] "POST /submit HTTP/1.1" 200 -
+2025-03-23 19:26:46 - INFO -  127.0.0.1 - - [23/Mar/2025 19:26:46] "POST /submit HTTP/1.1" 200 -
+2025-03-23 19:27:45 - INFO -  [INFO] loading encodings...
+2025-03-23 19:27:46 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-03-23 19:27:46 - INFO -  [33mPress CTRL+C to quit[0m
+2025-03-23 19:27:50 - INFO -  127.0.0.1 - - [23/Mar/2025 19:27:50] "GET / HTTP/1.1" 200 -
+2025-03-23 19:27:50 - INFO -  127.0.0.1 - - [23/Mar/2025 19:27:50] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-23 19:30:15 - INFO -  127.0.0.1 - - [23/Mar/2025 19:30:15] "GET / HTTP/1.1" 200 -
+2025-03-23 19:30:15 - INFO -  127.0.0.1 - - [23/Mar/2025 19:30:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-23 19:30:24 - INFO -  127.0.0.1 - - [23/Mar/2025 19:30:24] "GET / HTTP/1.1" 200 -
+2025-03-23 19:30:25 - INFO -  127.0.0.1 - - [23/Mar/2025 19:30:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-23 19:30:51 - INFO -  127.0.0.1 - - [23/Mar/2025 19:30:51] "GET / HTTP/1.1" 200 -
+2025-03-23 19:30:52 - INFO -  127.0.0.1 - - [23/Mar/2025 19:30:52] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
